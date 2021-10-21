@@ -1,0 +1,12 @@
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\bin\Debug\BuscaOrdenada.exe.config
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\bin\Debug\BuscaOrdenada.exe
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\bin\Debug\BuscaOrdenada.pdb
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\obj\Debug\BuscaOrdenada.csprojAssemblyReference.cache
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\obj\Debug\BuscaOrdenada.Form1.resources
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\obj\Debug\BuscaOrdenada.Properties.Resources.resources
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\obj\Debug\BuscaOrdenada.csproj.GenerateResource.cache
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\obj\Debug\BuscaOrdenada.csproj.CoreCompileInputs.cache
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\obj\Debug\BuscaOrdenada.csproj.CopyComplete
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\obj\Debug\BuscaOrdenada.exe
+C:\Users\Luizs\source\repos\BuscaOrdenada\BuscaOrdenada\obj\Debug\BuscaOrdenada.pdb
